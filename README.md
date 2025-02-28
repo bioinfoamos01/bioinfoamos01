@@ -10,4 +10,4 @@
 - Linux Ubuntu faz parte da minha rotina pessoal e é um dos sistemas que uso em meu notebook.
 
 ## Sobre mim
-- Estou aberto a aplicar meus conhecimentos em desafios na área de bioinformática.
+- Sigo entusiasmado para aplicar meus conhecimentos em desafios na área de bioinformática.

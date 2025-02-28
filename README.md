@@ -1,4 +1,5 @@
 ## Olá 👋
+- Me chamo Amós.
 - Desde 2021 atuo com NGS e genômica.
 - A pós-graduação em bioinformática no Instituto Israelita Albert Einstein foi um marco na carreira.
 - Esse estudo me ajudou a explorar ferramentas para resolver problemas e encontrar soluções em dados genéticos.

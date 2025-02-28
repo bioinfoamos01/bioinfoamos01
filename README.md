@@ -1,16 +1,13 @@
-## Hi there 👋
+## Olá 👋
+- Desde 2021 atuo com NGS e genômica.
+- A pós-graduação em bioinformática no Instituto Israelita Albert Einstein foi um marco na carreira.
+- Esse estudo me ajudou a explorar ferramentas para resolver problemas e encontrar soluções em dados genéticos.
 
-<!--
-**bioinfoamos01/bioinfoamos01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Linguagens 
+- Bash e Python são as linguagens que tenho utilizado em projetos.
 
-Here are some ideas to get you started:
+## Linux 
+- Linux Ubuntu faz parte da minha rotina pessoal e é um dos sistemas que uso em meu notebook.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mim
+- Estou aberto a aplicar meus conhecimentos em desafios na área de bioinformática.

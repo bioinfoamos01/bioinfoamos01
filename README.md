@@ -6,8 +6,6 @@
 
 ![TimelineCycle](https://github.com/user-attachments/assets/6f296338-edfc-4eb2-9d14-7b67e3addc98)
 
-
-
 ## Linguagens 
 - Bash e Python são as linguagens que tenho utilizado em projetos.
 

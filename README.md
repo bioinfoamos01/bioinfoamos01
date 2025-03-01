@@ -8,8 +8,10 @@
 - Bash e Python são as linguagens que tenho utilizado em projetos.
 
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>  <img src="https://img.shields.io/badge/BASH-%20The%20born%20again%20shell-6b8e23?style=for-the-badge&logo=GNU%20BASH&logoColor=ffdd54"/> 
+
 ## Linux 
 - A distribuição Ubuntu do Linux é a que tenho utilizado para desenvolvimento de meus projetos.
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white"/>
 
 ## Sobre mim
 - Sigo entusiasmado para aplicar meus conhecimentos em desafios na área de bioinformática.

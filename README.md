@@ -5,7 +5,6 @@
 - Esse estudo me ajudou a explorar ferramentas para resolver problemas e encontrar soluções em dados genéticos.
 
 ![TimelineCycle](https://github.com/user-attachments/assets/6f296338-edfc-4eb2-9d14-7b67e3addc98)
-
 ![workflow](https://github.com/user-attachments/assets/a8e6b7d7-0e4d-4bf3-bdb0-b8806d1ef524)
 
 ## Linguagens 

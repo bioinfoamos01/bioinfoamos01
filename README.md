@@ -20,4 +20,4 @@
 
 [![linkedin logo](https://img.shields.io/badge/%40-Linkedin-blue)](https://www.linkedin.com/in/amos-eduardo/)
 
-[![Google sites logo](https://img.shields.io/badge/%40-Meus%20Projetos%20Google%20Site-orange)](https://www.linkedin.com/in/amos-eduardo/)
+[![Google sites logo](https://img.shields.io/badge/%40-Meus%20Projetos%20Google%20Site-orange)](https://sites.google.com/view/amosedu)

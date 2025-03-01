@@ -6,8 +6,8 @@
 
 ## Linguagens 
 - Bash e Python são as linguagens que tenho utilizado em projetos.
-<img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png"/>
 
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>  <img src="https://img.shields.io/badge/BASH-%20The%20born%20again%20shell-6b8e23?style=for-the-badge&logo=GNU%20BASH&logoColor=ffdd54"/> 
 ## Linux 
 - A distribuição Ubuntu do Linux é a que tenho utilizado para desenvolvimento de meus projetos.
 

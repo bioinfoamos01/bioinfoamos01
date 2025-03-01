@@ -9,8 +9,7 @@
 <img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png"/>
 
 ## Linux 
-- A distribuição Ubuntu do Linux é a que tenho utilizado para estudos e em dispositivos pessoais.
-- Também tenho conhecimento dos comandos do terminal para gerenciamento de arquivos.
+- A distribuição Ubuntu do Linux é a que tenho utilizado para desenvolvimento de meus projetos.
 
 ## Sobre mim
 - Sigo entusiasmado para aplicar meus conhecimentos em desafios na área de bioinformática.

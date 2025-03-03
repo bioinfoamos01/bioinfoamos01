@@ -7,6 +7,15 @@
 ![TimelineCycle](https://github.com/user-attachments/assets/6f296338-edfc-4eb2-9d14-7b67e3addc98)
 ![workflow](https://github.com/user-attachments/assets/a8e6b7d7-0e4d-4bf3-bdb0-b8806d1ef524)
 
+## Desafios solucionados
+[![linkedin logo](https://rosalind.info/static/img/logo.png?v=1637535648)](https://rosalind.info/problems/list-view/)
+### Rosalind é uma plataforma de aprendizado de bioinformática por meio de resolução de problemas.
+- Aqui estão desafios que solucionei utilizando programação Python:
+  - [Contar nucleotídeos do DNA](https://github.com/bioinfoamos01/rosalind_challenges?tab=readme-ov-file#contar-nucleot%C3%ADdeos-do-dna)
+  - [Transcrever DNA em RNA](https://github.com/bioinfoamos01/rosalind_challenges?tab=readme-ov-file#contar-nucleot%C3%ADdeos-do-dna)
+  - [Retornar sequência reversa complementar de DNA](https://github.com/bioinfoamos01/rosalind_challenges/blob/main/README.md#retornar-sequ%C3%AAncia-reversa-complementar-de-dna)
+  - [Traduzir mRNA em proteína](https://github.com/bioinfoamos01/rosalind_challenges/blob/main/README.md#retornar-sequ%C3%AAncia-reversa-complementar-de-dna)
+
 ## Linguagens 
 - Bash e Python são as linguagens que tenho utilizado em projetos.
 

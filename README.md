@@ -18,7 +18,7 @@
 
 ### Desafio EINSTEIN
   - Desenvolvimento de ferramenta de prognóstico de mielofibrose
-      - [Reposiório pipeline prognóstico de Mielofibrose por evidência genética somática](https://github.com/bioinfoamos01/mfsomatica_var)
+      - [Repositório pipeline prognóstico de Mielofibrose por evidência genética somática](https://github.com/bioinfoamos01/mfsomatica_var)
       - Website do projeto (link externo Google sites):
       ![Projeto Mielofibrose](https://github.com/user-attachments/assets/7fa65681-cf36-473f-8504-ae320c3055dc)
 

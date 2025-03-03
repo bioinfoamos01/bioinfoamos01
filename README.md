@@ -20,7 +20,7 @@
   - Desenvolvimento de ferramenta de prognóstico de mielofibrose
       - [Repositório pipeline prognóstico de Mielofibrose por evidência genética somática](https://github.com/bioinfoamos01/mfsomatica_var)
       - Website do projeto (link externo Google sites):
-      [![Projeto Mielofibrose](https://github.com/user-attachments/assets/7fa65681-cf36-473f-8504-ae320c3055dc)](https://www.linkedin.com/in/amos-eduardo/)
+      [![Projeto Mielofibrose](https://github.com/user-attachments/assets/7fa65681-cf36-473f-8504-ae320c3055dc)](https://sites.google.com/view/g1-t5vsomticas/introdu%C3%A7%C3%A3o)
 
 ## Linguagens 
 - Bash e Python são as linguagens que tenho utilizado em projetos.

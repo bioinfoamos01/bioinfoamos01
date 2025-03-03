@@ -16,6 +16,12 @@
   - [Retornar sequência reversa complementar de DNA](https://github.com/bioinfoamos01/rosalind_challenges/blob/main/README.md#retornar-sequ%C3%AAncia-reversa-complementar-de-dna)
   - [Traduzir mRNA em proteína](https://github.com/bioinfoamos01/rosalind_challenges/blob/main/README.md#retornar-sequ%C3%AAncia-reversa-complementar-de-dna)
 
+### Desafio EINSTEIN
+  - Desenvolvimento de ferramenta de prognóstico de mielofibrose
+      - [Reposiório pipeline prognóstico de Mielofibrose por evidência genética somática](https://github.com/bioinfoamos01/mfsomatica_var)
+      - Website do projeto (link externo Google sites):
+      ![Projeto Mielofibrose](https://github.com/user-attachments/assets/7fa65681-cf36-473f-8504-ae320c3055dc)
+
 ## Linguagens 
 - Bash e Python são as linguagens que tenho utilizado em projetos.
 

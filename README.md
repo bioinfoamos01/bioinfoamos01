@@ -34,6 +34,6 @@
 ## Sobre mim
 - Sigo entusiasmado para aplicar meus conhecimentos em desafios na área de bioinformática.
 
-[![linkedin logo](https://img.shields.io/badge/%40-Linkedin-blue)](https://sites.google.com/view/g1-t5vsomticas/introdu%C3%A7%C3%A3o)
+[![linkedin logo](https://img.shields.io/badge/%40-Linkedin-blue)](https://www.linkedin.com/in/amos-eduardo/)
 
 [![Google sites logo](https://img.shields.io/badge/%40-Meus%20Projetos%20Google%20Site-orange)](https://sites.google.com/view/amosedu)
